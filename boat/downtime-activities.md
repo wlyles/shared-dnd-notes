@@ -72,7 +72,7 @@ The are generally no complications as a result of relaxing, but complications fr
 
 ### Religious Service
 
-Religious service requires one workweek of effort. It normally also requires acccess to a temple or similar, but religious service on the ship will just require a Chaplain. Note that your original Chaplain was laid off, so you need to find a suitable replacement!
+Religious service requires one workweek of effort. It normally also requires access to a temple or similar, but religious service on the ship will just require a Chaplain. Note that your original Chaplain was laid off, so you need to find a suitable replacement!
 
 Religious service requires a Religion or Persuasion check. Because you don't have full access to religious facilities on a ship, the rewards for religious service will not be as great, but you can still earn up to two "favors" which you can redeem later. These will generally be minor interventions from your deity rather than assistance from temple representatives.
 
@@ -88,7 +88,7 @@ There are complications that can arise from using Guex's help, but your characte
 
 ### Training
 
-Training requires ten workweeks total, reduced by a number of weeks equal to your Intelligence modifier (if positive). Training costs 25gp per workweek for materials or instruction. Check out the [list of currently available training resources on the ship!](./training-resources.md)
+Training requires ten workweeks total, reduced by a number of weeks equal to your Intelligence modifier (if positive). Training costs 25gp per workweek for materials or instruction.
 
 Training does not require any skill checks, but you may attempt to use the language or tool you're learning before you've learned everything about it. Doing so will require an additional skill check, or increase the difficulty of an associated check according to the following table:
 
@@ -108,6 +108,39 @@ Time Left (rounded up)|DC|Description
 Complications from training arise when you try to use the skill prematurely. For example, if you try to craft something you might have one of the following outcomes:
 - You fail to craft the item, and render some or all of the materials you used useless
 - You succeed in creating something, but it's not what you expected. It might be a lower quality version of what you were trying to make, or it might be something completely different. You might not be able to tell that you failed either!
+
+#### Currently Available Training Resources on the Ship
+
+##### Languages
+
+Everyone in the crew speaks Common, plus at least one other language based on their past experiences (whether on diverse crews or doing something entirely different). Note that there a a handful of other languages spoken on the ship but not listed here (mostly class-specific languages that the speakers would not be willing to teach to those outside the class)
+
+Language|Speakers
+-|-
+Dwarvish|Ragnar Emberfist
+Elvish|Devdan Phigwynn, Lorelei Lithrenni
+Giant|Ffloki Goldenear, Ragnar Emberfist
+Gnomish|Gunnar Gunnarsson
+Goblin|Snagglefang, Gristlegut
+Halfling|Ffloki Goldenear, Ragnar Emberfist
+Infernal|Guex
+Orcish|Snagglefang, Gristlegut, Ragnar Emberfist
+Primordial (Aquan)|Carp Enter
+Sylvan|Devdan Phigwynn
+Undercommon|Guy Owain
+
+##### Tools
+
+Tool|Users
+-|-
+Calligrapher's Supplies|Guex, Lorelei Lithrenni
+Carpenter's Tools|Carp Enter
+Cartographer's Tools|Devdan Phigwynn
+Gaming Set (Dice Set)|Gunnar Gunnarsson
+Gaming Set (Playing Cards)|Snagglefang, Gristlegut
+Instrument (Flute)|Ragnar Emberfist
+Navigator's Tools|Devdan Phigwynn, Ffloki Goldenear, Guy Owain
+Thieves' Tools|Ffloki Goldenear, Guy Owain
 
 ### Omitted Activities
 
