@@ -125,7 +125,7 @@ Goblin|Snagglefang, Gristlegut
 Halfling|Ffloki Goldenear, Ragnar Emberfist
 Infernal|Guex
 Orcish|Snagglefang, Gristlegut, Ragnar Emberfist
-Primordial (Aquan)|Carp Enter
+Primordial (Aquan)|Carp Enter, Devdan Phigwynn
 Sylvan|Devdan Phigwynn
 Undercommon|Guy Owain
 
@@ -138,6 +138,7 @@ Carpenter's Tools|Carp Enter
 Cartographer's Tools|Devdan Phigwynn
 Gaming Set (Dice Set)|Gunnar Gunnarsson
 Gaming Set (Playing Cards)|Snagglefang, Gristlegut
+Herbalism Kit|Devdan Phigwynn
 Instrument (Flute)|Ragnar Emberfist
 Navigator's Tools|Devdan Phigwynn, Ffloki Goldenear, Guy Owain
 Thieves' Tools|Ffloki Goldenear, Guy Owain
@@ -154,7 +155,7 @@ The following activities are explicitly omitted primarily due to being impractic
 
 ## Other Downtime Activities
 
-These are custom downtime activites for our campaign!
+These are custom downtime activities for our campaign!
 
 ### Fishing
 
