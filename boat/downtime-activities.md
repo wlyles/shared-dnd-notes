@@ -90,7 +90,7 @@ There are complications that can arise from using Guex's help, but your characte
 
 Training requires ten workweeks total, reduced by a number of weeks equal to your Intelligence modifier (if positive). Training costs 25gp per workweek for materials or instruction.
 
-Training does not require any skill checks, but you may attempt to use the language or tool you're learning before you've learned everything about it. Doing so will require an additional skill check, or increase the difficulty of an associated check according to the following table:
+Training does not require any skill checks, but you may attempt to use the language or tool you're learning before you've learned everything about it. You can devote up to one day of your training to using the skill without needing to spend additional time to do so (for example, you could spend one day of your training with an Herbalist's Kit attempting to craft a potion of healing). You still need to spend any other costs such as money. Doing this will require an additional skill check, or increase the difficulty of an associated check according to the following table:
 
 Time Left (rounded up)|DC|Description
 -|-|-
@@ -164,3 +164,9 @@ Fishing requires one workweek of effort and fishing equipment.
 Fishing requires a Survival check. Success means that you fish up a random catch. You may also make an optional Nature check to target something specific, with the result determining your chance of getting what you want. Your catch can be used for food to reduce the cost of supporting your lifestyle.
 
 Complications from fishing arise when fishing up dangerous creatures that either fight back or poison those who eat them.
+
+### Ship Repair
+
+Repairing the ship requires proficiency with and use of Carpenter's tools by at least one person participating in this activity. Repairing 1HP of damage to the ship requires 1 day of work from 1 person and 20gp. (TBD)
+
+There are no complications that arise from working on the ship.
