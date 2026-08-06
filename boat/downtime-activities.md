@@ -119,9 +119,9 @@ Language|Speakers
 -|-
 Dwarvish|Ragnar Emberfist
 Elvish|Devdan Phigwynn, Lorelei Lithrenni
-Giant|Ffloki Goldenear, Ragnar Emberfist
+Giant|Ffloki Goldenear, Ragnar Emberfist, Snagglefang
 Gnomish|Gunnar Gunnarsson
-Goblin|Snagglefang, Gristlegut
+Goblin|Snagglefang
 Halfling|Ffloki Goldenear, Ragnar Emberfist
 Infernal|Guex
 Orcish|Snagglefang, Gristlegut, Ragnar Emberfist
