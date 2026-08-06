@@ -1,30 +1,32 @@
 # Crew
 <!--
-<div style="color: cornflowerblue;">Active</div>
-<div style="color: darkorange;">Fired</div>
+![](https://img.shields.io/badge/Active-6495ED)
+![](https://img.shields.io/badge/X%2FY-Active-6495ED)
+![](https://img.shields.io/badge/Fired-FF8C00)
+![](https://img.shields.io/badge/0%2FY-Fired-FF8C00)
 -->
 Role|Name(s)|Status
 -|-|-
-Captain|Johnald Flagherty|`#6495ED`Active
-First Mate|Snagglefang|<div style="color: cornflowerblue;">Active</div>
-Second Mate|Devdan Phigwynn|<div style="color: cornflowerblue;">Active</div>
-Third Mate|Gristlegut|<div style="color: cornflowerblue;">Active</div>
-Bosun|Ragnar Emberfist|<div style="color: cornflowerblue;">Active</div>
-Bosun's Mate|Ffloki Goldenear|<div style="color: cornflowerblue;">Active</div>
-Surgeon|Vish|<div style="color: cornflowerblue;">Active</div>
-Surgeon's Mate|Lorelei Lithrenni|<div style="color: cornflowerblue;">Active</div>
-Carpenter|Carp Enter|<div style="color: cornflowerblue;">Active</div>
-Carpenter's Mate|n/a|<div style="color: darkorange;">Fired</div>
-Gunner|Gunnar Gunnarsson|<div style="color: cornflowerblue;">Active</div>
-Gunner's Mate|n/a|<div style="color: darkorange;">Fired</div>
-Cook|n/a|<div style="color: darkorange;">Fired</div>
-Chaplain|n/a|<div style="color: darkorange;">Fired</div>
-Quartermaster|Guex|<div style="color: cornflowerblue;">Active</div>
-Helmsman|Guy Owain|<div style="color: cornflowerblue;">Active</div>
-Seamen|Bliiploolp|<div style="color: cornflowerblue;">Active</div><div style="color: darkorange;">(5/8)</div>
-Topmen|Rix|<div style="color: cornflowerblue;">Active</div><div style="color: darkorange;">(4/8)</div>
-Midshipmen|n/a|<div style="color: cornflowerblue;">Active (4/4)</div>
-Stewards|n/a|<div style="color: darkorange;">Fired (0/4)</div>
+Captain|Johnald Flagherty|![](https://img.shields.io/badge/Active-6495ED)
+First Mate|Snagglefang|![](https://img.shields.io/badge/Active-6495ED)
+Second Mate|Devdan Phigwynn|![](https://img.shields.io/badge/Active-6495ED)
+Third Mate|Gristlegut|![](https://img.shields.io/badge/Active-6495ED)
+Bosun|Ragnar Emberfist|![](https://img.shields.io/badge/Active-6495ED)
+Bosun's Mate|Ffloki Goldenear|![](https://img.shields.io/badge/Active-6495ED)
+Surgeon|Vish|![](https://img.shields.io/badge/Active-6495ED)
+Surgeon's Mate|Lorelei Lithrenni|![](https://img.shields.io/badge/Active-6495ED)
+Carpenter|Carp Enter|![](https://img.shields.io/badge/Active-6495ED)
+Carpenter's Mate|n/a|![](https://img.shields.io/badge/Fired-FF8C00)
+Gunner|Gunnar Gunnarsson|![](https://img.shields.io/badge/Active-6495ED)
+Gunner's Mate|n/a|![](https://img.shields.io/badge/Fired-FF8C00)
+Cook|n/a|![](https://img.shields.io/badge/Fired-FF8C00)
+Chaplain|n/a|![](https://img.shields.io/badge/Fired-FF8C00)
+Quartermaster|Guex|![](https://img.shields.io/badge/Active-6495ED)
+Helmsman|Guy Owain|![](https://img.shields.io/badge/Active-6495ED)
+Seamen|Bliiploolp|![](https://img.shields.io/badge/5%2F8-Active-6495ED)
+Topmen|Rix|![](https://img.shields.io/badge/4%2F8-Active-6495ED)
+Midshipmen|n/a|![](https://img.shields.io/badge/4%2F4-Active-6495ED)
+Stewards|n/a|![](https://img.shields.io/badge/0%2F4-Fired-FF8C00)
 
 ## Crew Events
 - Session 1: Carpenter's Mate, Gunner's Mate, Cook, Chaplain, 4 Seamen, 4 Topmen, and 4 Stewards fired
