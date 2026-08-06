@@ -2,6 +2,7 @@ Link|Description
 -|-
 [Character Building Primer](./primer.md)|Information about building your characters
 [The Moonshae Isles](./the-moonshae-isles.md)|Lore about the Moonshae Isles
+[Ship Manifest](./manifest.md)|List all crew and cargo aboard the ship
 [Session Recaps](./session-recaps/)|Session recaps
 [Downtime Activities on the Ship](./downtime-activities.md)|Downtime activity rules and suggestions while you're on the ship
 [Nautical Terms](./terms.md)|Glossary of Nautical Terms
