@@ -5,7 +5,7 @@
 -->
 Role|Name(s)|Status
 -|-|-
-Captain|Johnald Flagherty|<div style="color: cornflowerblue;">Active</div>
+Captain|Johnald Flagherty|`#6495ED`Active
 First Mate|Snagglefang|<div style="color: cornflowerblue;">Active</div>
 Second Mate|Devdan Phigwynn|<div style="color: cornflowerblue;">Active</div>
 Third Mate|Gristlegut|<div style="color: cornflowerblue;">Active</div>
