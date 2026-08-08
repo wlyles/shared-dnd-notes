@@ -10,6 +10,8 @@ We then met Captain John Flagherty, a company man seemingly hoarding the wealth 
 
 As the ship sailed, the crew entered some downtime. The main occurrence was Bliiploolp's fishing antics, which pulled up three legsharks that attacked the crew. They were dispatched handily with a little bit of help from Ragnar, and and investigation into what could have created such a creature led by Guex was unsuccessful.
 
+![](../resources/shork.PNG)
+
 The journey continued, and on the evening of the seventh day of travel Rix and Bliiploolp saw land while Wish was busy staring off the poop deck. The crew knew this to be the Korinn Archipelago, marking the halfway point of the journey! As night fell a thick fog descended upon the ship, making travel too precarious to continue in the rocky waters. The ship weighed anchor and the crew settled in for the night...
 
 ...until Ragnar and Lorelei started noticing some strange signs. First, the mast of a sunken ship rubbing against the hull - this was a ship graveyard. Then, another mast with a Jolly Roger - pirates could be nearby. Then, some creaking off the port bow - was that another ship? And a faint lantern light peeking through the fog - it must be another ship! Bliiploolp then cast Gust of Wind to clear the fog and the crew could clearly see the other ship in the lantern light - pirates were upon them!
