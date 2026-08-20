@@ -30,6 +30,7 @@ Stewards|n/a|![](https://img.shields.io/badge/0%2F4-Fired-FF8C00)
 
 ## Crew Events
 - Session 1: Carpenter's Mate, Gunner's Mate, Cook, Chaplain, 4 Seamen, 4 Topmen, and 4 Stewards fired
+- Session 2: 2 Seamen, 1 Topman dead; Captain buried; Ragnar new captain, Ffloki bosun
 
 # Cargo
 
