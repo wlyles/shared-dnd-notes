@@ -29,6 +29,18 @@ Topmen|Rix|![](https://img.shields.io/badge/3%2F8-Active-6495ED)
 Midshipmen|n/a|![](https://img.shields.io/badge/4%2F4-Active-6495ED)
 Stewards|n/a|![](https://img.shields.io/badge/0%2F4-Fired-FF8C00)
 
+## Ragnar's Council
+
+Ragnar has established a democratic system aboard the Golden Gander. The following ranking crewmembers have a vote in his council:
+- First Mate
+- Second Mate
+- Third Mate
+- Bosun
+- Surgeon
+- Carpenter
+- Gunner
+- Quartermaster
+
 ## Crew Events
 - Session 1: Carpenter's Mate, Gunner's Mate, Cook, Chaplain, 4 Seamen, 4 Topmen, and 4 Stewards fired
 - Session 2: 2 Seamen, 1 Topman dead; Captain buried; Ragnar promoted to Captain; Ffloki promoted to Bosun
