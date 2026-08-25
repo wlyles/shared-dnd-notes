@@ -12,11 +12,11 @@ Status|Role|Name(s)|Max Lvl<sup>1</sup>|Lvl Calc<sup>1</sup>
 ![](https://img.shields.io/badge/Active-6495ED)      |First Mate|Snagglefang          |6|=*PC-1*
 ![](https://img.shields.io/badge/Active-6495ED)      |Second Mate|Devdan Phigwynn     |6|=*PC-1*
 ![](https://img.shields.io/badge/Active-6495ED)      |Third Mate|Gristlegut           |6|=*PC-1*
-![](https://img.shields.io/badge/Active-6495ED)      |Bosun|Ffloki Goldenear          |4|=*PC-2*
+![](https://img.shields.io/badge/Active-6495ED)      |Bosun|Ffloki Goldenear          |5|=*PC-2*
 ![](https://img.shields.io/badge/Vacant-006400)      |Bosun's Mate|-                  |3|=*⌊PC/2⌋*
-![](https://img.shields.io/badge/Active-6495ED)      |Surgeon|Vish                    |4|=*PC-2*
+![](https://img.shields.io/badge/Active-6495ED)      |Surgeon|Vish                    |5|=*PC-2*
 ![](https://img.shields.io/badge/Active-6495ED)      |Surgeon's Mate|Lorelei Lithrenni|3|=*⌊PC/2⌋*
-![](https://img.shields.io/badge/Active-6495ED)      |Quartermaster|Guex              |4|=*PC-2*
+![](https://img.shields.io/badge/Active-6495ED)      |Quartermaster|Guex              |5|=*PC-2*
 ![](https://img.shields.io/badge/Active-6495ED)      |Carpenter|Carp Enter            |0|
 ![](https://img.shields.io/badge/Fired-FF8C00)       |Carpenter's Mate|n/a            |0|
 ![](https://img.shields.io/badge/Active-6495ED)      |Gunner|Gunnar Gunnarsson        |0|
@@ -44,8 +44,15 @@ Ragnar has established a democratic system aboard the Golden Gander. The followi
 - Quartermaster
 
 ## Crew Events
-- Session 1: Carpenter's Mate, Gunner's Mate, Cook, Chaplain, 4 Seamen, 4 Topmen, and 4 Stewards fired
-- Session 2: 2 Seamen, 1 Topman dead; Captain buried; Ragnar promoted to Captain; Ffloki promoted to Bosun
+
+- Session 1
+  - Carpenter's Mate, Gunner's Mate, Cook, Chaplain, 4 Seamen, 4 Topmen, and 4 Stewards fired
+- Session 2
+  - 2 Seamen, 1 Topman dead following conflict with pirates near the Korinn Archipelago
+  - Mutiny lead by Snagglefang and Gristlegut:
+    - Old captain (Johnald Flagherty) buried in Caer Callidyrr beach
+    - Ragnar promoted to Captain
+    - Ffloki promoted to Bosun
 
 # Cargo
 
