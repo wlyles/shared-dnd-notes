@@ -6,28 +6,30 @@
 ![](https://img.shields.io/badge/0%2FY-Fired-FF8C00)
 ![](https://img.shields.io/badge/Vacant-006400)
 -->
-Role|Name(s)|Status
--|-|-
-Captain|Ragnar Emberfist|![](https://img.shields.io/badge/Active-6495ED)
-First Mate|Snagglefang|![](https://img.shields.io/badge/Active-6495ED)
-Second Mate|Devdan Phigwynn|![](https://img.shields.io/badge/Active-6495ED)
-Third Mate|Gristlegut|![](https://img.shields.io/badge/Active-6495ED)
-Bosun|Ffloki Goldenear|![](https://img.shields.io/badge/Active-6495ED)
-Bosun's Mate|-|![](https://img.shields.io/badge/Vacant-006400)
-Surgeon|Vish|![](https://img.shields.io/badge/Active-6495ED)
-Surgeon's Mate|Lorelei Lithrenni|![](https://img.shields.io/badge/Active-6495ED)
-Carpenter|Carp Enter|![](https://img.shields.io/badge/Active-6495ED)
-Carpenter's Mate|n/a|![](https://img.shields.io/badge/Fired-FF8C00)
-Gunner|Gunnar Gunnarsson|![](https://img.shields.io/badge/Active-6495ED)
-Gunner's Mate|n/a|![](https://img.shields.io/badge/Fired-FF8C00)
-Cook|n/a|![](https://img.shields.io/badge/Fired-FF8C00)
-Chaplain|n/a|![](https://img.shields.io/badge/Fired-FF8C00)
-Quartermaster|Guex|![](https://img.shields.io/badge/Active-6495ED)
-Helmsman|Guy Owain|![](https://img.shields.io/badge/Active-6495ED)
-Seamen|Bliiploolp|![](https://img.shields.io/badge/3%2F8-Active-6495ED)
-Topmen|Rix|![](https://img.shields.io/badge/3%2F8-Active-6495ED)
-Midshipmen|n/a|![](https://img.shields.io/badge/4%2F4-Active-6495ED)
-Stewards|n/a|![](https://img.shields.io/badge/0%2F4-Fired-FF8C00)
+Status|Role|Name(s)|Max Lvl<sup>1</sup>|Lvl Calc<sup>1</sup>
+-:|-|-|-:|-
+![](https://img.shields.io/badge/Active-6495ED)      |Captain|Ragnar Emberfist        |8|=*PC*
+![](https://img.shields.io/badge/Active-6495ED)      |First Mate|Snagglefang          |6|=*PC-1*
+![](https://img.shields.io/badge/Active-6495ED)      |Second Mate|Devdan Phigwynn     |6|=*PC-1*
+![](https://img.shields.io/badge/Active-6495ED)      |Third Mate|Gristlegut           |6|=*PC-1*
+![](https://img.shields.io/badge/Active-6495ED)      |Bosun|Ffloki Goldenear          |4|=*PC-2*
+![](https://img.shields.io/badge/Vacant-006400)      |Bosun's Mate|-                  |3|=*⌊PC/2⌋*
+![](https://img.shields.io/badge/Active-6495ED)      |Surgeon|Vish                    |4|=*PC-2*
+![](https://img.shields.io/badge/Active-6495ED)      |Surgeon's Mate|Lorelei Lithrenni|3|=*⌊PC/2⌋*
+![](https://img.shields.io/badge/Active-6495ED)      |Quartermaster|Guex              |4|=*PC-2*
+![](https://img.shields.io/badge/Active-6495ED)      |Carpenter|Carp Enter            |0|
+![](https://img.shields.io/badge/Fired-FF8C00)       |Carpenter's Mate|n/a            |0|
+![](https://img.shields.io/badge/Active-6495ED)      |Gunner|Gunnar Gunnarsson        |0|
+![](https://img.shields.io/badge/Fired-FF8C00)       |Gunner's Mate|n/a               |0|
+![](https://img.shields.io/badge/Active-6495ED)      |*(Devdan Phigwynn)*|n/a         |0|
+![](https://img.shields.io/badge/Fired-FF8C00)       |Chaplain|n/a                    |0|
+![](https://img.shields.io/badge/Active-6495ED)      |Helmsman|Guy Owain              |0|
+![](https://img.shields.io/badge/3%2F8-Active-6495ED)|Seamen|Bliiploolp               |0|
+![](https://img.shields.io/badge/3%2F8-Active-6495ED)|Topmen|Rix                      |0|
+![](https://img.shields.io/badge/4%2F4-Active-6495ED)|Midshipmen|n/a                  |0|
+![](https://img.shields.io/badge/0%2F4-Fired-FF8C00) |Stewards|n/a                    |0|
+
+<sup>1</sup>NPCs occupying certain high-ranking positions on the boat will be handled like PCs under player control during combat. These characters are subject to a level cap and formula for determining their current level relative to the player characters. All formulas for caps greater than 0 have an implied minimum of level 1.
 
 ## Ragnar's Council
 
@@ -47,4 +49,5 @@ Ragnar has established a democratic system aboard the Golden Gander. The followi
 
 # Cargo
 
-Coming soon!
+- Enough materials to cover the material cost of your first upgrade
+- Luxury goods totaling TBDgp
