@@ -24,9 +24,9 @@ Status|Role|Name(s)|Max Lvl<sup>1</sup>|Lvl Calc<sup>1</sup>
 ![](https://img.shields.io/badge/Active-6495ED)      |Cook            |*(Devdan Phigwynn)*|0|
 ![](https://img.shields.io/badge/Fired-FF8C00)       |Chaplain        |n/a                |0|
 ![](https://img.shields.io/badge/Active-6495ED)      |Helmsman        |Guy Owain          |0|
+![](https://img.shields.io/badge/4%2F4-Active-6495ED)|Midshipmen      |n/a                |0|
 ![](https://img.shields.io/badge/3%2F8-Active-6495ED)|Seamen          |Bliiploolp         |0|
 ![](https://img.shields.io/badge/3%2F8-Active-6495ED)|Topmen          |Rix                |0|
-![](https://img.shields.io/badge/4%2F4-Active-6495ED)|Midshipmen      |n/a                |0|
 ![](https://img.shields.io/badge/0%2F4-Fired-FF8C00) |Stewards        |n/a                |0|
 
 <sup>1</sup>NPCs occupying certain high-ranking positions on the boat will be handled like PCs under player control during combat. These characters are subject to a level cap and formula for determining their current level relative to the player characters. All formulas for caps greater than 0 have an implied minimum of level 1.
