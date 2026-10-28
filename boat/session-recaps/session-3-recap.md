@@ -1,0 +1,4 @@
+- flashback to map, learned about Cap Tain's treasure, started investigating the puzzle
+- White Rock, fought a bunch of orcs and goblins led by a piss kink chief
+- Exchanged goods in White Rock, as well as got some potions as a reward and noticed that they were not sleepy
+- downtime: research + learning, fey attack, caer allisynn
