@@ -1,4 +1,7 @@
-- flashback to map, learned about Cap Tain's treasure, started investigating the puzzle
-- White Rock, fought a bunch of orcs and goblins led by a piss kink chief
-- Exchanged goods in White Rock, as well as got some potions as a reward and noticed that they were not sleepy
-- downtime: research + learning, fey attack, caer allisynn
+# Session 3 Recap
+
+Session 3 started with the crew recalling the night of the Korinn Archipelago ambush, where they found some mysterious map fragments. The party was able to determine that this was a map to Cap Tain's treasure, and was hiding information in a puzzle! They inspected the map more closely and found a few details that might lead them to solving the puzzle and locating the treasure.
+
+Knowing what they learned from the previous session though, the crew did not want to wait in solving the mystery of what happened in Caer Callidyrr. They first sailed north to White Rock, the nearest town across the Whitefish Bay, with the intent of determining the extent of the sleeping curse. When they arrived, the town was empty and apparently under attack! The party rushed to the town's aid, defeating a raiding party of goblins and cursed orcs led by the "piss kink" chief from the mountains. The party was rewarded with some potions for their effort, and although the people of White Rock were aware of the sleeping curse they did not seem impacted. They also exchanged some of the good onboard for raw materials that might be used to repair or upgrade the ship.
+
+The party then decided to continue onwards to Myrloch Vale by way of Dultann, hoping that the druids there might have some answers for them. On the way they continued research and learning as they did in previous downtime, and were ambushed by some faeries while passing the Torriage Wood. The party also encountered Caer Allisynn, the magical traveling castle in the sea. They poked around a bit, but awakened something when trying to take some of the treasure and did not stick around to find out what it was.
